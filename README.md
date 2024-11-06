@@ -6,4 +6,4 @@ I have a bachelor's and master's degree in Computer Science and I specialize in 
 In addition, I am a systems developer. I work with the languages ​​C/C++, Rust, Java, Python, JavaScript, etc.
 I am a fan of embedded technologies and I develop with the Qt framework (C++, JavaScript, QML).
 Como GameDev trabalho com Unity, Godot e Unreal.
-I have a YouTube channel (currently under construction) where I share tips and knowledge on Game Dev: https://www.youtube.com/@GameDevBrazil
+I have a YouTube channel (currently under construction) where I share tips and knowledge on Game Dev: [Libertarian GameDev Brazil](https://www.youtube.com/@GameDevBrazil)
